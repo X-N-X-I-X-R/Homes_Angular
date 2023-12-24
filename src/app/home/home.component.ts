@@ -142,10 +142,4 @@ export class HomeComponent {
 
 
 
-echo "# Homes_Angular" >> README.md
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/X-N-X-I-X-R/Homes_Angular.git
-git push -u origin main
+
